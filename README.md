@@ -1,6 +1,3 @@
-Certainly, Busi! Here’s a README file for your GitHub profile that highlights your skills, interests, and current focus:
-
----
 
 # 👋 Hello, I'm Busi Joseph!
 
